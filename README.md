@@ -8,6 +8,7 @@ La finalidad de esté programa es aprender los operadores baritmeticos en el len
 <p>Solicitamos al usaurio un numero.</p>
 
 ![image](https://github.com/user-attachments/assets/905b04a4-a93b-4a30-a3ba-d82eda2a6f94)
+
 <p>Le solicitamos al usurio otro numero.</p>
 
 ![image](https://github.com/user-attachments/assets/29318c0f-973d-4af9-b1be-faad0645273e)
