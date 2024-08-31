@@ -5,7 +5,9 @@
 La finalidad de esté programa es aprender los operadores baritmeticos en el lenguaje de programación en C.</p>
 
 <h2>Funcionamiento</h2>
+
 ![image](https://github.com/user-attachments/assets/86d9dd12-af92-4813-949a-4991a312bf39)
+
 <p>Solicitamos al usaurio un numero.</p>
 
 ![image](https://github.com/user-attachments/assets/905b04a4-a93b-4a30-a3ba-d82eda2a6f94)
